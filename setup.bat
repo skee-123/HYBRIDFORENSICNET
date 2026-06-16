@@ -1,0 +1,3 @@
+@echo off
+echo Setting up HybridForensicNet environment...
+python -m pip install -r requirements.txt
