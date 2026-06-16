@@ -1,0 +1,5 @@
+trainer:
+  batch_size: 16
+  lr: 1e-4
+  epochs: 20
+  temporal_model: bigru

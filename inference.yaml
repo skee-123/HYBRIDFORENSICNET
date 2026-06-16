@@ -1,0 +1,4 @@
+inference:
+  threshold: 0.5
+  mode: image
+  batch_size: 1

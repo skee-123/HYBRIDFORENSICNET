@@ -1,0 +1,7 @@
+preprocessing:
+  resize: [256, 256]
+  augmentations:
+    - horizontal_flip
+    - random_crop
+    - color_jitter
+    - normalize

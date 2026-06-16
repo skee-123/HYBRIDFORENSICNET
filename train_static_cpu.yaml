@@ -1,0 +1,5 @@
+trainer:
+  batch_size: 8
+  lr: 1e-5
+  epochs: 20
+  cpu_safe: true

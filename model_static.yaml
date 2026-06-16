@@ -1,0 +1,6 @@
+model: efficientnet-b4
+frequency_branches:
+  - fft
+  - dct
+fusion: cross_attention
+backbone: convnext-s

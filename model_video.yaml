@@ -1,0 +1,3 @@
+model: xception
+sequence_model: bigru
+hidden_size: 512

@@ -1,0 +1,6 @@
+explainability:
+  gradcam: true
+  gradcam_pp: true
+  patch_scoring: true
+  fft_heatmap: true
+  dct_heatmap: true

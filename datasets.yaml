@@ -1,0 +1,7 @@
+datasets:
+  train: data/raw/train
+  val: data/raw/val
+  test: data/raw/test
+registry:
+  cifake: data/raw/cifake
+  genimage: data/raw/genimage
